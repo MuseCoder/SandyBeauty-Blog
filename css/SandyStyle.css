@@ -20,7 +20,7 @@ body {
     float: right;
 }
 .li a {
-    color: white;
+    color: white; 
     text-align: center;
     text-decoration: none;
 }
